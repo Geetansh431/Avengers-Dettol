@@ -1,0 +1,368 @@
+{
+  "Iron Man": [
+    {
+      "title": "Iron Man",
+      "release_date": "2008-05-02"
+    },
+    {
+      "title": "Iron Man 2",
+      "release_date": "2010-05-07"
+    },
+    {
+      "title": "Iron Man 3",
+      "release_date": "2013-05-03"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Captain America": [
+    {
+      "title": "Captain America: The First Avenger",
+      "release_date": "2011-07-22"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "2014-04-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Thor": [
+    {
+      "title": "Thor",
+      "release_date": "2011-05-06"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Thor: The Dark World",
+      "release_date": "2013-11-08"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "release_date": "2017-11-03"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Hulk": [
+    {
+      "title": "The Incredible Hulk",
+      "release_date": "2008-06-13"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "release_date": "2017-11-03"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Black Widow": [
+    {
+      "title": "Iron Man 2",
+      "release_date": "2010-05-07"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "2014-04-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    },
+    {
+      "title": "Black Widow",
+      "release_date": "2021-07-09"
+    }
+  ],
+  "Hawkeye": [
+    {
+      "title": "Thor",
+      "release_date": "2011-05-06"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Loki": [
+    {
+      "title": "Thor",
+      "release_date": "2011-05-06"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Thor: The Dark World",
+      "release_date": "2013-11-08"
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "release_date": "2017-11-03"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Nick Fury": [
+    {
+      "title": "Iron Man",
+      "release_date": "2008-05-02"
+    },
+    {
+      "title": "Iron Man 2",
+      "release_date": "2010-05-07"
+    },
+    {
+      "title": "Thor",
+      "release_date": "2011-05-06"
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "release_date": "2011-07-22"
+    },
+    {
+      "title": "The Avengers",
+      "release_date": "2012-05-04"
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "2014-04-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Spider-Man": [
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "release_date": "2017-07-07"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "release_date": "2019-07-02"
+    }
+  ],
+  "Doctor Strange": [
+    {
+      "title": "Doctor Strange",
+      "release_date": "2016-11-04"
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "release_date": "2017-11-03"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Black Panther": [
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Black Panther",
+      "release_date": "2018-02-16"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Scarlet Witch": [
+    {
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "2014-04-04"
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    },
+    {
+      "title": "WandaVision",
+      "release_date": "2021-01-15"
+    }
+  ],
+  "Vision": [
+    {
+      "title": "Avengers: Age of Ultron",
+      "release_date": "2015-05-01"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_date": "2018-04-27"
+    }
+  ],
+  "Ant-Man": [
+    {
+      "title": "Ant-Man",
+      "release_date": "2015-07-17"
+    },
+    {
+      "title": "Captain America: Civil War",
+      "release_date": "2016-05-06"
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "release_date": "2018-07-06"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ],
+  "Wasp": [
+    {
+      "title": "Ant-Man",
+      "release_date": "2015-07-17"
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "release_date": "2018-07-06"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "release_date": "2019-04-26"
+    }
+  ]
+}
