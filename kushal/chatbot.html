@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChatGPT Demo</title>
+</head>
+<body>
+
+<h1>ChatGPT Demo</h1>
+<input type="text" id="user-input" placeholder="Type your message here">
+<button onclick="sendMessage()">Send</button>
+<div id="chat-container"></div>
+
+<script>
+async function sendMessage() {
+  const userInput = document.getElementById('user-input').value;
+  const chatContainer = document.getElementById('chat-container');
+  chatContainer.innerHTML += `<div><strong>You:</strong> ${userInput}</div>`;
+  const response = await getChatGPTResponse(userInput);
+  chatContainer.innerHTML += `<div><strong>ChatGPT:</strong> ${response}</div>`;
+}
+
+async function getChatGPTResponse(userInput) {
+
+  const response = await fetch('YOUR_API_ENDPOINT', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ input: userInput })
+  });
+
+  const data = await response.json();
+  return data.response; 
+}
+</script>
+
+</body>
+</html>

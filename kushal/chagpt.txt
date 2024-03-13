@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChatGPT Demo</title>
+</head>
+<body>
+
+<h1>ChatGPT Demo</h1>
+<input type="text" id="user-input" placeholder="Type your message here">
+<button onclick="sendMessage()">Send</button>
+<div id="chat-container"></div>
+
+<script>
+async function sendMessage() {
+  const userInput = document.getElementById('user-input').value;
+  const chatContainer = document.getElementById('chat-container');
+
+  // Display user input in the chat container
+  chatContainer.innerHTML += `<div><strong>You:</strong> ${userInput}</div>`;
+
+  // Send user input to ChatGPT
+  const response = await getChatGPTResponse(userInput);
+
+  // Display ChatGPT's response in the chat container
+  chatContainer.innerHTML += `<div><strong>ChatGPT:</strong> ${response}</div>`;
+}
+
+async function getChatGPTResponse(userInput) {
+  // Send user input to your backend server where you have access to the ChatGPT model
+  // Example: make a POST request to your server with user input, then your server handles sending the input to ChatGPT and returns the response
+  // For simplicity, let's assume we're using a mock API
+
+  const response = await fetch('YOUR_API_ENDPOINT', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ input: userInput })
+  });
+
+  const data = await response.json();
+  return data.response; // Assuming the server returns the ChatGPT response in the 'response' field
+}
+</script>
+
+</body>
+</html>
