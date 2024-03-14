@@ -174,6 +174,7 @@ function display_movie(tosearch) {
         ) {
             toshowHtml +=
                 `<div class="card">
+                <i class="heart bi bi-heart-fill" onclick="changecolor(this)"></i>
         <a href="${value.link}">
         <div class="card-inner">
             <div class="card-front">
@@ -189,6 +190,9 @@ function display_movie(tosearch) {
         }
     });
     movies.innerHTML = toshowHtml;
+}
+function changecolor(ele){
+    ele.style.color = ele.style.color==="red"?ele.style.color="white":"red";
 }
 
 let searchhero = document.getElementById("searchhero");
