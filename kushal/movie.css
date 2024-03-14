@@ -11,7 +11,13 @@ body {
     overflow-x: hidden;
     background-color: black;
 }
+::-webkit-scrollbar {
+    width: 5px;
+}
 
+::-webkit-scrollbar-thumb {
+    background: red;
+}
 .wrapper {
     height: 100vh;
     width: 100vw;
@@ -102,7 +108,7 @@ body {
 }
 
 .card {
-    width: calc(20% - 20px); 
+    width: 15%; 
     height: 300px;
     perspective: 1000px;
     margin: 30px;
@@ -144,6 +150,7 @@ body {
     transform: rotateY(180deg);
     padding: 10px;
     border-radius: 10px;
+    font-size: 25px;
 }
 
 a {
@@ -223,6 +230,15 @@ a {
     width: 500px;
     height: 30px;
     padding: 5px;
+}
+.heart{
+    width:100%;
+    z-index: 10;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    right: -85%;
+    top: 15px;
 }
 @media (max-width: 1200px) {
     .card {
