@@ -1,0 +1,135 @@
+{
+ "name": "marvel",
+ "img": "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/marvel.png",
+ "children": [
+  {
+   "name": "Heroes",
+   "children": [
+    {
+      "hero": "Spider-Man",
+      "name": "Peter Benjamin Parker", 
+      "desc" : "Spider-Man, alter ego of Peter Parker, is a masked superhero known for his agility, quick wit, and web-slinging prowess, dedicated to protecting the streets of New York City from crime and injustice.",
+      "superpowers" : "Superhuman agility, strength, and reflexes,Ability to cling to walls and surfaces,"Spider-sense" - an extrasensory ability that warns him of impending danger." 
+    },
+    {
+      "hero": "CAPTAIN MARVEL",
+      "name": "Carol Danvers", 
+      "desc" : "Captain Marvel, also known as Carol Danvers, is a powerful superhero with cosmic abilities derived from her connection to the Kree alien race.",
+      "superpowers" : "Superhuman strength, durability, agility,Flight at supersonic speeds,Energy projection and absorption, Photonic blasts from her hands."    
+      },
+    {
+      "hero": "HULK", 
+      "name": "Robert Bruce Banner",
+      "desc" : "Hulk, alter ego of Bruce Banner, is a colossal green-skinned superhero known for his immense strength and uncontrollable rage.",
+      "superpowers" : "Superhuman strength, increasing with anger,Near-invulnerability due to his highly durable skin and rapid healing factor." 
+    },
+    {
+      "hero": "Black Widow", 
+      "name": "Natalia 'Natasha' Alianovna Romanova",
+      "desc" : "Black Widow, also known as Natasha Romanoff, is a skilled and deadly spy and assassin, known for her expertise in hand-to-hand combat and espionage.",
+      "superpowers" : "Master martial artist and hand-to-hand combatant, Exceptional agility, reflexes, and marksmanship." 
+    },
+    {
+      "hero": "Captain America", 
+      "name": "Steven Rogers",
+      "desc" : "Captain America, also known as Steve Rogers, is a symbol of heroism and patriotism, wielding his iconic shield as he fights for justice and freedom.",
+      "superpowers" : "Peak human physical condition due to the Super-Soldier Serum, Master tactician and strategist, proficient in hand-to-hand combat and shield throwing." 
+    },
+    {
+      "hero": "Iron Man", 
+      "name": "Anthony Edward 'Tony' Stark",
+      "desc" : "Iron Man, also known as Tony Stark, is a brilliant inventor and billionaire playboy who dons a high-tech suit of armor to fight against threats to humanity.",
+      "superpowers" : "Powered armored suit granting flight, enhanced strength, durability, Equipped with an array of advanced weapons and gadgets, including repulsor blasts and missiles." 
+    },
+    {
+      "hero": "THOR", 
+      "name": "Thor Odinson",
+      "desc" : "Thor, the God of Thunder and prince of Asgard, wields the mighty hammer Mjolnir and protects the realms from cosmic threats.",
+      "superpowers" : "Superhuman strength, endurance, longevity, Mastery over lightning and weather manipulation, and the ability to fly with Mjolnir." 
+    }
+  ]
+  },
+  {
+   "name": "Villains",
+   "children": [
+    {
+      "hero": "Dr. Doom",
+      "name": "Victor von Doom",
+      "desc" : "fnjkrwngkjsnkjfndbkjfsklvdb fjknvfsjgndkjbndkjfsv",
+      "superpowers" : "hidhbvhhjfvbwhjvhjrw fkjegjivrwnkegf" 
+    },
+    {
+      "hero": "Mystique",
+      "name": "Unrevealed", 
+      "desc" : "fnjkrwngkjsnkjfndbkjfsklvdb fjknvfsjgndkjbndkjfsv",
+      "superpowers" : "hidhbvhhjfvbwhjvhjrw fkjegjivrwnkegf" 
+    },
+    {
+      "hero": "Red Skull",
+      "name": "Johann Shmidt", 
+      "desc" : "fnjkrwngkjsnkjfndbkjfsklvdb fjknvfsjgndkjbndkjfsv",
+      "superpowers" : "hidhbvhhjfvbwhjvhjrw fkjegjivrwnkegf" 
+    },
+    {
+      "hero": "Ronan",
+      "name": "Ronan", 
+      "desc" : "fnjkrwngkjsnkjfndbkjfsklvdb fjknvfsjgndkjbndkjfsv",
+      "superpowers" : "hidhbvhhjfvbwhjvhjrw fkjegjivrwnkegf" 
+    },
+    {
+      "hero": "Thanos",
+      "name": "Thanos",
+      "desc" : "fnjkrwngkjsnkjfndbkjfsklvdb fjknvfsjgndkjbndkjfsv",
+      "superpowers" : "hidhbvhhjfvbwhjvhjrw fkjegjivrwnkegf" 
+    },
+   ]
+  },
+  {
+   "name": "Teams",
+   "children": [
+    {
+      "hero": "Avengers",
+      "name": "", 
+      "link": "http://marvel.com/characters/68/avengers",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/avengers.png",
+      "size": 40000
+    },
+    {
+      "hero": "Guardians of the Galaxy",
+      "name": "", 
+      "link": "http://marvel.com/characters/70/guardians_of_the_galaxy",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/gofgalaxy.png",
+      "size": 40000
+    },
+    {
+      "hero": "Defenders",
+      "name": "", 
+      "link": "http://marvel.com/characters/534/defenders",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/defenders.png",
+      "size": 40000
+    },
+    {
+      "hero": "X-Men",
+      "name": "", 
+      "link": "http://marvel.com/characters/71/x-men",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/xmen.png",
+      "size": 40000
+    },
+    {
+      "hero": "Fantastic Four",
+      "name": "", 
+      "link": "http://marvel.com/characters/69/fantastic_four",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/fantasticfour.png",
+      "size": 40000
+    },
+    {
+      "hero": "Inhumans",
+      "name": "", 
+      "link": "http://marvel.com/characters/1040/inhumans",
+      "img":  "https://dl.dropboxusercontent.com/u/19954023/marvel_force_chart_img/inhumans.png",
+      "size": 40000
+    }
+   ]
+  }  
+ ]
+}

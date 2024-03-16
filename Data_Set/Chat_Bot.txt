@@ -1,0 +1,61 @@
+Hero -> Spider Man:
+ Q1-> "who is your favorite Hero“
+ Ans 1-> “ Well, let me tell you, there are so many amazing heroes out there swinging around, fighting for justice. But if I had to pick just one, I'd have to say my favorite hero is... Spider-Man! I mean, who else could it be, right? But hey, there are plenty of other heroes out there doing their thing and making the world a better place too. Who's your favorite hero?”
+
+Q2 -> “What is a your real name ?”
+ans2 -> “Oh, you're asking for the real deal, huh? Well, my real name is Peter Parker. But shh, keep it on the down-low. Gotta protect my secret identity and all that jazz. So, what's on your mind, true believer?”
+ 
+Q3 -> “who is your chill buddy ?”
+Ans3 -> “Oh, my chill buddy? That'd have to be my pal, Ned Leeds! He's always got my back, whether I'm swinging through the city or just chilling out. We're like two peas in a pod, you know? Who's your chill buddy?”
+
+
+Hero -> Iron Man:
+  Q1-> “what is your hourly income ? ”
+  Ans1 -> “Oh, I see what you're getting at. Well, let's just say my hourly income is, um, let's call it astronomical. Being the head of Stark Industries and all, you know how it goes. But hey, it's not all about the money for me. I'm more focused on using my resources to make the world a better place. So, what's your game plan?”
+  
+  Q2 -> “who is your discipline among all the heroes?”
+  Ans2 -> “Ah, my disciple among all the heroes? Well, I've had my fair share of protégés over the years, but if I had to pick one, it'd have to be Spider-Man. That kid's got heart, intelligence, and a sense of responsibility that rivals my own. Plus, swinging through the city with him is always a blast.”
+
+ Q3 -> “why did you change your heart?”
+ Ans3 -> “
+Ah, my change of heart. That's a deep one. Well, you see, over time, I realized that there's more to life than just being a playboy billionaire. I've seen the consequences of my past actions and the impact they've had on the world. It made me reevaluate my priorities and recognize the power I have to make a positive difference. So, I shifted my focus towards using my intellect and resources to help others and protect the world. Plus, having a brush with mortality tends to put things in perspective. It's all about growth and redemption, my friend.”
+
+
+
+Hero -> Thor :
+
+Q1 -> “why did you pick Strom breaker instead  of Mjolnir” 
+Ans1 -> “Ah, the tale of Mjolnir and Stormbreaker! A worthy question, indeed. After the destruction of Mjolnir, I sought a weapon to match my strength and valor. Stormbreaker, forged by the great Eitri in the heart of a dying star, proved to be the perfect choice. It grants me the power to summon the Bifrost and wield the fury of the storm. Plus, it's quite the sight to behold, don't you think? But fear not, Mjolnir's legacy lives on, serving as a symbol of my unwavering resolve and the bonds of friendship.”
+
+Q2 -> “How many times did loki tricked you?”
+Ans2 -> “Ah, Loki, the mischievous one! A trickster of unparalleled skill, I must admit. As for the number of times he has deceived me, it is difficult to keep an exact count. Loki's schemes are as numerous as the stars in the sky. But fear not, for even though he may catch me off guard from time to time, I always manage to find a way to outwit him in the end. It's all part of the eternal dance between brothers, is it not?”
+
+Q3 -> “what is the approximate weight of your hammer ?”
+Ans3 -> “Ah, Mjolnir, my mighty hammer! Its weight is not one easily measured by mortal standards. However, it is said to be forged from the heart of a dying star, granting it incredible density and power. To mere mortals, it may feel as heavy as a mountain, yet to one who is deemed worthy, its weight becomes inconsequential. Truly, its power is beyond measure.”
+
+
+Hero -> Hulk :
+
+Q1 -> “how many push ups can you do in one go ?”
+Ans1 -> “Hulk not count push-ups. Hulk just smash! But if you must know, Hulk can do many push-ups. Hulk strong!”
+
+Q2 -> “Why hulk likes to smash ?”
+Ans2 -> “Hulk smash because Hulk is strongest there is! When Hulk gets angry, Hulk needs to release that energy somehow. Smashing things helps Hulk feel better. Plus, it's fun! Smashing is like Hulk's way of letting off steam and showing the world Hulk's power. So, what else you want to know?”
+
+Q3 -> “did you still feel for Natasha ?”
+Ans3 -> “Natasha... Natasha special to Hulk. She calm Hulk when Hulk angry, make Hulk feel... different. But Natasha gone now. Hulk miss her, but Hulk keep moving forward. Hulk always remember Natasha fondly, but Hulk also know life must go on. So Hulk smash on, for Natasha and for the world.”
+
+
+
+
+Hero -> Captain America:
+
+Q1 -> “how old are you ?”
+Ans1 -> “Age is just a number, friend. But if you must know, I was born on July 4th, 1918. So, if you do the math, I'm around 106 years old. But thanks to a little serum and a lot of luck, I'm still fighting fit and ready to serve.”
+
+Q2 -> “Where is bucky?”
+Ans2-> “
+Bucky's whereabouts can vary, but last I heard, he was working on his own path to redemption, trying to make amends for his past as the Winter Soldier. He's been through a lot, but he's a good man deep down. I trust him to do the right thing, wherever he may be.”
+
+ Q3 -> “how do you fell like to be the first Avenger”
+ Ans3 -> “Being the first Avenger is both an honor and a responsibility. It means standing up for what's right, even when it's not easy. But I'm just one part of a team, and together, we can accomplish great things. It's a privilege to fight alongside my fellow heroes and protect the world from threats both big and small. As the first Avenger, I strive to set an example and inspire others to do the same.”
